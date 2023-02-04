@@ -59,6 +59,7 @@
        url('Samim.woff') format('woff'),
        url('Samim.ttf') format('truetype');
   font-weight: normal;
+  font-display: swap;
 }
 
 @font-face {
@@ -69,6 +70,7 @@
        url('Samim-Bold.woff') format('woff'),
        url('Samim-Bold.ttf') format('truetype');
   font-weight: bold;
+  font-display: swap;
 }
 
 @font-face {
@@ -79,6 +81,7 @@
        url('Samim-Medium.woff') format('woff'),
        url('Samim-Medium.ttf') format('truetype');
   font-weight: 500;
+  font-display: swap;
 }
 ```
 
